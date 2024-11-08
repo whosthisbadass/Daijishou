@@ -1,7 +1,8 @@
 {
     "databaseVersion": 8,
+    "revisionNumber": 2,
     "platform": {
-        "name": "Android (Beware, it is deprecated)",
+        "name": "Android",
         "uniqueId": "android",
         "shortname": "android",
         "description": null,
