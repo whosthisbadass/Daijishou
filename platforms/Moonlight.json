@@ -20,7 +20,7 @@
   "playerList": [
     {
       "name": "moonlight",
-      "uniqueId": "moonlight.com.limelight",
+      "uniqueId": "com.limelight.noir",
       "description": "Supported extensions: moonlight",
       "acceptedFilenameRegex": "^(.*)\\.(?:moonlight)$",
       "amStartArguments": "-n com.limelight/com.limelight.ShortcutTrampoline\n --es UUID UUIDHERE\n --es AppId {tags.moonlight_id}",
