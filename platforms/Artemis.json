@@ -1,0 +1,32 @@
+{
+  "databaseVersion": 14,
+  "revisionNumber": 2,
+  "platform": {
+    "name": "Artemis",
+    "uniqueId": "artemis",
+    "shortname": "artemis",
+    "description": null,
+    "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
+    "scraperSourceList": [],
+    "boxArtAspectRatioId": 0,
+    "useCustomBoxArtAspectRatio": false,
+    "customBoxArtAspectRatio": null,
+    "screenAspectRatioId": 1,
+    "useCustomScreenAspectRatio": false,
+    "customScreenAspectRatio": null,
+    "retroAchievementsAlias": null,
+    "extra": ""
+  },
+  "playerList": [
+    {
+      "name": "artemis",
+      "uniqueId": "artemis.com.limelight.noir",
+      "description": "Supported extensions: artemis",
+      "acceptedFilenameRegex": "^(.*)\\.(?:artemis)$",
+      "amStartArguments": "-n com.limelight.noir/com.limelight.noir.ShortcutTrampoline\n --es UUID UUIDHERE\n --es AppId {tags.artemis_id}",
+      "killPackageProcesses": true,
+      "killPackageProcessesWarning": true,
+      "extra": ""
+    }
+  ]
+}
