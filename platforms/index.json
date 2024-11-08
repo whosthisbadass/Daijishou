@@ -1,5 +1,5 @@
 {
-  "baseUri": "https://raw.githubusercontent.com/magneticchen/Daijishou/main/platforms/",
+  "baseUri": "https://raw.githubusercontent.com/whosthisbadass/Daijishou/main/platforms/",
   "platformList": [
     {
       "filename": "3DO.json",
@@ -14,6 +14,13 @@
       "platformShortname": "cpc",
       "platformUniqueId": "cpc",
       "revisionNumber": 5
+    },
+    {
+      "filename": "Android.json",
+      "platformName": "Android",
+      "platformShortname": "android",
+      "platformUniqueId": "android",
+      "revisionNumber": 2
     },
     {
       "filename": "AppleII.json",
@@ -329,6 +336,13 @@
       "platformShortname": "megaduck",
       "platformUniqueId": "megaduck",
       "revisionNumber": 1
+    },
+    {
+      "filename": "Moonlight.json",
+      "platformName": "Moonlight Streaming",
+      "platformShortname": "moonlight",
+      "platformUniqueId": "moonlight",
+      "revisionNumber": 2
     },
     {
       "filename": "NECPC60.json",
