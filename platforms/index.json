@@ -44,6 +44,13 @@
       "revisionNumber": 1
     },
     {
+      "filename": "Artemis.json",
+      "platformName": "Artemis",
+      "platformShortname": "artemis",
+      "platformUniqueId": "artemis",
+      "revisionNumber": 2
+    },
+    {
       "filename": "Atari2600.json",
       "platformName": "Atari 2600",
       "platformShortname": "atari2600",
@@ -340,6 +347,13 @@
     {
       "filename": "Moonlight.json",
       "platformName": "Moonlight Streaming",
+      "platformShortname": "moonlight",
+      "platformUniqueId": "moonlight",
+      "revisionNumber": 2
+    },
+    {
+      "filename": "MoonlightNoir.json",
+      "platformName": "Moonlight Noir",
       "platformShortname": "moonlight",
       "platformUniqueId": "moonlight",
       "revisionNumber": 2
